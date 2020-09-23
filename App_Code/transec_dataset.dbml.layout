@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="transec_dataset">
+  <DataContextMoniker Name="/transec_datasetDataContext" />
+  <nestedChildShapes>
+    <classShape Id="f6553d72-b87b-43e0-9328-1636da3854b1" absoluteBounds="4.375, 2.125, 2, 1.9631982421875">
+      <DataClassMoniker Name="/transec_datasetDataContext/TransectionDB" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2046989b-e8b1-46bd-b2a2-65b26766ad51" absoluteBounds="4.39, 2.585, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
